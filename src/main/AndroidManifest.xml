@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="jp.shikajiro.app"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:label="sample">
+
+    </application>
+
+</manifest>
